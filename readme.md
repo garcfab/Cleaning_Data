@@ -1,0 +1,2 @@
+# Cleaning Data
+The script loads and merges all data. Regular expressions were used to filter the factors containing "std" and "mean" in their names. Finally, the function '''aggregate''' was used to compute the means of the selected variables by person and activity. 
